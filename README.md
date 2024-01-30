@@ -2,7 +2,7 @@
 
 ## 🎓 I'm a Fullstack Developer.
 
-- ⚽ Currently working on Futbol-Cup an app for showing soccer cup progress and results near realtime (15sec) in a readable way.
+- ⚽ Currently working on Futbol-Cup an app for showing soccer scores and tournament results near real time (15sec) in a readable way.
 - 🎓 Diving deeper into Typescript and Next.js
 - 🤝 I would love to connect with other developers, please reach out!
 - ✨ Interesting tidbit: I am an avid gardener and woodworker.
